@@ -1,1 +1,2 @@
-Code for Medium tutorial: Express Server Using TypeScript
+Code for Medium tutorial: Adding PostgreSQL to Your Express TypeScript Server
+
